@@ -71,3 +71,4 @@ SELECT sum(years_employed)
 FROM employees 
 GROUP BY role 
 HAVING role="Engineer"
+
